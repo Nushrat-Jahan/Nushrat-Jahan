@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Nushrat 👋
 
 <!--
 **Nushrat-Jahan/Nushrat-Jahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ...Oracle Jdeveloper
+- 🌱 I’m currently learning ...Oracle Service Bus
+- 🤔 I’m looking for help with ... My portfolio website
+- 📫 How to reach me: ... nushratjahan296@gmail.com
+- ⚡ Fun fact: ... I love eating a lot
