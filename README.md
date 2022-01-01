@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nushrat-Jahan&label=Profile%20views&color=0e75b6&style=social" alt="Nushrat-Jahan" /> </p>
 - 🔭 I’m currently working on Oracle Jdeveloper
 - 🌱 I’m currently learning Oracle Service Bus
 - 🤔 I’m looking for help with my portfolio website
