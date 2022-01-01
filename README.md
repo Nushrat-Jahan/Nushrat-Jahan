@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...Oracle Jdeveloper
-- 🌱 I’m currently learning ...Oracle Service Bus
-- 🤔 I’m looking for help with ... My portfolio website
-- 📫 How to reach me: ... nushratjahan296@gmail.com
-- ⚡ Fun fact: ... I love eating a lot
+- 🔭 I’m currently working on Oracle Jdeveloper
+- 🌱 I’m currently learning Oracle Service Bus
+- 🤔 I’m looking for help with my portfolio website
+- 📫 How to reach me: nushratjahan296@gmail.com
+- ⚡ Fun fact: I love eating a lot
