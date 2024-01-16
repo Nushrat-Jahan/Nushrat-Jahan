@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Oracle Jdeveloper
-- 🌱 I’m currently learning Oracle Service Bus
-- 🤔 I’m looking for help with my portfolio website
+- 🔭 I’m currently working on Research and Development Project
+- 🌱 I’m currently learning many stuffs at Ecole des Mines de Saint Etienne
+- 🤔 I’m looking for internship
 - 📫 How to reach me: nushratjahan296@gmail.com
 - ⚡ Fun fact: I love eating a lot
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nushrat-Jahan&label=Profile%20views&color=0e75b6&style=social" alt="Nushrat-Jahan" /> </p>
