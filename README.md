@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Master M2 Research Internship - Developing ontology evaluation tool for assisting ontology reuse
-- 🌱 I’m currently learning many stuffs at Ecole des Mines de Saint Etienne
-- 🤔 I’m looking for internship
+- 🔭 I’m currently working on Master M2 Research Internship - Developing ontology evaluation tool for assisting ontology reuse at Ecole des Mines de Saint Etienne
+- 🌱 I’m currently learning about ontological reuse 
+- 🤔 I’m looking for Job or PHD opportunity
 - 📫 How to reach me: nushratjahan296@gmail.com
-- ⚡ Fun fact: I love eating a lot
+- ⚡ Fun fact: We all have 0.2 mg of gold in us
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nushrat-Jahan&label=Profile%20views&color=0e75b6&style=social" alt="Nushrat-Jahan" /> </p>
