@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Research and Development Project
+- 🔭 I’m currently working on Master M2 Research Internship - Developing ontology evaluation tool for assisting ontology reuse
 - 🌱 I’m currently learning many stuffs at Ecole des Mines de Saint Etienne
 - 🤔 I’m looking for internship
 - 📫 How to reach me: nushratjahan296@gmail.com
