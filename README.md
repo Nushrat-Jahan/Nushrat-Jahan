@@ -21,7 +21,7 @@ My research aims to integrate **heterogeneous and longitudinal biomedical data**
 
 ## ⚡ Fun Fact
 
-✨ The human body contains approximately **0.2 mg of gold**.
+✨ Did you know? We all carry approximately 0.2 mg of gold in our bodies.
 
 ---
 
