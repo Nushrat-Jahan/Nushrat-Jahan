@@ -1,4 +1,3 @@
-
 # Hi, I'm Nushrat Jahan 👋
 
 🎓 **PhD Researcher in Computer Science**
@@ -13,9 +12,9 @@ My research aims to integrate **heterogeneous and longitudinal biomedical data**
 
 ## 📫 Connect With Me
 
-📧 **Email:** [nushratjahan296@gmail.com](mailto:nushratjahan296@gmail.com)
-💼 **LinkedIn:** [Nushrat Jahan](https://www.linkedin.com/in/nushrat-jahan1/)
-🎓 **Google Scholar:** [View my publications](https://scholar.google.com/citations?user=zbzSNMcAAAAJ&hl=en)
+📧 **Email:** [nushratjahan296@gmail.com](mailto:nushratjahan296@gmail.com)  
+💼 **LinkedIn:** [Nushrat Jahan](https://www.linkedin.com/in/nushrat-jahan1/)  
+🎓 **Google Scholar:** [View my publications](https://scholar.google.com/citations?user=zbzSNMcAAAAJ&hl=en)  
 🔬 **ORCID:** [0000-0001-7334-3766](https://orcid.org/0000-0001-7334-3766)
 
 ---
@@ -29,8 +28,6 @@ My research aims to integrate **heterogeneous and longitudinal biomedical data**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nushrat-Jahan&label=Profile%20views&color=0e75b6&style=flat" alt="Nushrat-Jahan" />
 </p>
-
-
 
 
 
