@@ -1,4 +1,6 @@
-### Hi I am Nushrat 👋
+### Hi, I'm Nushrat Jahan 👋
+
+🎓 PhD Researcher in Computer Science
 
 <!--
 **Nushrat-Jahan/Nushrat-Jahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Master M2 Research Internship - Developing ontology evaluation tool for assisting ontology reuse at Ecole des Mines de Saint Etienne
-- 🌱 I’m currently learning about ontological reuse 
-- 🤔 I’m looking for Job or PHD opportunity
-- 📫 How to reach me: nushratjahan296@gmail.com
-- ⚡ Fun fact: We all have 0.2 mg of gold in us
+I am currently pursuing my PhD at LIRMM & PhyMedExp, University of Montpellier, CNRS, Inserm, France.
+
+My PhD research focuses on developing a Hybrid Machine Learning Model for Rheumatoid Arthritis Prediction enriched by a Disease and Exposome Ontology.
+
+My research aims to integrate heterogeneous and longitudinal biomedical data through semantic representation, ontology engineering, and knowledge graphs, and subsequently investigate their use in machine learning models for Rheumatoid Arthritis prediction.
+  
+
+📫 Connect With Me
+📧 Email: nushratjahan296@gmail.com
+💼 LinkedIn: [https://www.linkedin.com/in/nushrat-jahan1/]
+🎓 Google Scholar: [https://scholar.google.com/citations?user=zbzSNMcAAAAJ&hl=en]
+🔬 ORCID: [https://orcid.org/0000-0001-7334-3766]
+
+⚡ Fun Fact
+- We all have 0.2 mg of gold in us
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nushrat-Jahan&label=Profile%20views&color=0e75b6&style=social" alt="Nushrat-Jahan" /> </p>
