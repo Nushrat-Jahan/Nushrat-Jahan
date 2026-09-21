@@ -2,6 +2,8 @@
 
 🎓 **PhD Researcher in Computer Science**
 
+🔬 `Ontology Engineering` • `Knowledge Graphs` • `Semantic Web` • `Machine Learning` 
+
 I am currently pursuing my **PhD at LIRMM & PhyMedExp, University of Montpellier, CNRS, Inserm, France**.
 
 My PhD research focuses on developing a **Hybrid Machine Learning Model for Rheumatoid Arthritis Prediction enriched by a Disease and Exposome Ontology**.
@@ -21,14 +23,13 @@ My research aims to integrate **heterogeneous and longitudinal biomedical data**
 
 ## ⚡ Fun Fact
 
-✨ Did you know? We all carry approximately 0.2 mg of gold in our bodies.
+✨ Did you know? We all carry approximately **0.2 mg of gold in our bodies**.
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nushrat-Jahan&label=Profile%20views&color=0e75b6&style=flat" alt="Nushrat-Jahan" />
 </p>
-
 
 
 
